@@ -2,9 +2,9 @@
 
 **Project:** Campus Parking Helper
 
-**Team members:**
+**Team member:** Daniel Rios
 
-**Date:**
+**Date:** 30 September 2026
 
 ## User and problem
 
