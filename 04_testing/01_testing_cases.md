@@ -11,6 +11,7 @@ The program calculates and displays the correct [output]
 **Actual Result:**  
 Results in correct showing that the total cost is $2.00 and that they have
 parked for two hours.
+**NOTE: It was one hour but I accidentally mistyped two hours instead of one. My apologies.
 
 **Result:**  
 **Pass** / Fail
